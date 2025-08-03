@@ -37,3 +37,10 @@ npm install
 
 # Start the development server
 ng serve
+
+
+<img width="1904" height="919" alt="Screenshot 2025-08-03 124741" src="https://github.com/user-attachments/assets/06aead7d-4749-4733-85b7-5ccbc55d0b5c" />
+<img width="1915" height="910" alt="Screenshot 2025-08-03 122150" src="https://github.com/user-attachments/assets/6eadaed7-c567-4d81-9fff-3fe55551b68b" />
+<img width="1904" height="919" alt="Screenshot 2025-08-03 124741" src="https://github.com/user-attachments/assets/aa8c2d33-f802-4a6a-8529-a48dc50543d5" />
+
+
