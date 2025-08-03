@@ -4,11 +4,13 @@ import { CartItemComponent } from './cart-item/cart-item.component';
 import { OrderSummaryComponent } from './order-summary/order-summary.component';
 import { ButtonComponent } from '../../components/button/button.component';
 import { RouterLink } from '@angular/router';
+import { HeaderComponent } from '../../components/header/header.component';
 
 @Component({
   selector: 'app-cart',
-  imports: [CartItemComponent, OrderSummaryComponent],
+  imports: [CartItemComponent, OrderSummaryComponent,HeaderComponent],
   template: `
+    <app-header></app-header>
     <div class="p-6 flex flex-col gap-4">
       <h2 class="text-2xl">Shopping cart</h2>
 

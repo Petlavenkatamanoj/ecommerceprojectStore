@@ -37,3 +37,19 @@ npm install
 
 # Start the development server
 ng serve
+
+```
+## 🖼️ Project Demo
+
+This section shows how the application looks and behaves in real time. The UI is clean, responsive, and easy to use, making shopping a seamless experience.
+
+Welcome Page  
+![Demo](./public/I1.png)
+
+Product Listing Page  
+![Product](./public/I2.png)
+
+Cart Page  
+![Cart](./public/I3.png)
+
+Each view is fully devloped, with dynamic updates powered by RxJS Signals. Users can browse products, see live stock, and manage their cart efficiently.s
